@@ -1,0 +1,89 @@
+{
+  "class": "resistant",
+  "n_images": 10,
+  "top_kmers": [
+    {
+      "kmer": "AAAAAG",
+      "mean_activation": 0.9643463955985175
+    },
+    {
+      "kmer": "ACCTCT",
+      "mean_activation": 0.9635394877857633
+    },
+    {
+      "kmer": "TAAAAG",
+      "mean_activation": 0.9533174484968185
+    },
+    {
+      "kmer": "TGGACT",
+      "mean_activation": 0.9531689087549845
+    },
+    {
+      "kmer": "CCCCCT",
+      "mean_activation": 0.9517688651879629
+    },
+    {
+      "kmer": "CCCTCT",
+      "mean_activation": 0.9465474387009939
+    },
+    {
+      "kmer": "AGGACT",
+      "mean_activation": 0.9427983562151591
+    },
+    {
+      "kmer": "ATAAAG",
+      "mean_activation": 0.9422885047064887
+    },
+    {
+      "kmer": "GCCCCT",
+      "mean_activation": 0.9409996196627617
+    },
+    {
+      "kmer": "TCCTCT",
+      "mean_activation": 0.940786212682724
+    },
+    {
+      "kmer": "TAATAG",
+      "mean_activation": 0.9401900557180246
+    },
+    {
+      "kmer": "ACCACT",
+      "mean_activation": 0.9368176062901815
+    },
+    {
+      "kmer": "GGGACT",
+      "mean_activation": 0.9363515004515648
+    },
+    {
+      "kmer": "TGGTGA",
+      "mean_activation": 0.9334763313333193
+    },
+    {
+      "kmer": "AAATAG",
+      "mean_activation": 0.9330855780177647
+    },
+    {
+      "kmer": "TCGACT",
+      "mean_activation": 0.9324277689059576
+    },
+    {
+      "kmer": "GCCGCT",
+      "mean_activation": 0.930714963003993
+    },
+    {
+      "kmer": "CGCCCT",
+      "mean_activation": 0.9302303691705068
+    },
+    {
+      "kmer": "CGGACT",
+      "mean_activation": 0.9261555969715118
+    },
+    {
+      "kmer": "GCCTCT",
+      "mean_activation": 0.924178384244442
+    }
+  ],
+  "biological_matches": [],
+  "cam_method": "gradcam",
+  "kmer_k": 6
+}

@@ -1,0 +1,89 @@
+{
+  "class": "resistant",
+  "n_images": 10,
+  "top_kmers": [
+    {
+      "kmer": "CCAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "GCAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "CGAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "GGAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "ACAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "TCAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "AGAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "TGAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "CAAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "GAAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "CTAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "GTAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "AAAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "TAAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "ATAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "TTAAAA",
+      "mean_activation": 0.9999998807907104
+    },
+    {
+      "kmer": "CCTAAA",
+      "mean_activation": 0.999177893002828
+    },
+    {
+      "kmer": "ACTAAA",
+      "mean_activation": 0.999177893002828
+    },
+    {
+      "kmer": "CATAAA",
+      "mean_activation": 0.999177893002828
+    },
+    {
+      "kmer": "AATAAA",
+      "mean_activation": 0.999177893002828
+    }
+  ],
+  "biological_matches": [],
+  "cam_method": "gradcam",
+  "kmer_k": 6
+}

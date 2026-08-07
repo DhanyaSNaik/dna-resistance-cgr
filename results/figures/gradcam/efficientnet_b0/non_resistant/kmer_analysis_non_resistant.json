@@ -1,0 +1,89 @@
+{
+  "class": "non_resistant",
+  "n_images": 10,
+  "top_kmers": [
+    {
+      "kmer": "GCTTAA",
+      "mean_activation": 0.9978700578212738
+    },
+    {
+      "kmer": "TCTTAA",
+      "mean_activation": 0.9978700578212738
+    },
+    {
+      "kmer": "GATTAA",
+      "mean_activation": 0.9978700578212738
+    },
+    {
+      "kmer": "TATTAA",
+      "mean_activation": 0.9978700578212738
+    },
+    {
+      "kmer": "CCTTAA",
+      "mean_activation": 0.9973616202672323
+    },
+    {
+      "kmer": "ACTTAA",
+      "mean_activation": 0.9973616202672323
+    },
+    {
+      "kmer": "CATTAA",
+      "mean_activation": 0.9973616202672323
+    },
+    {
+      "kmer": "AATTAA",
+      "mean_activation": 0.9973616202672323
+    },
+    {
+      "kmer": "TAGTAA",
+      "mean_activation": 0.9971453547477722
+    },
+    {
+      "kmer": "AAGTAA",
+      "mean_activation": 0.9966250525580512
+    },
+    {
+      "kmer": "AAAAAC",
+      "mean_activation": 0.9965694149335226
+    },
+    {
+      "kmer": "TAAAAC",
+      "mean_activation": 0.9965694149335226
+    },
+    {
+      "kmer": "ATAAAC",
+      "mean_activation": 0.9965694149335226
+    },
+    {
+      "kmer": "TTAAAC",
+      "mean_activation": 0.9965694149335226
+    },
+    {
+      "kmer": "ATTATC",
+      "mean_activation": 0.9963494539260864
+    },
+    {
+      "kmer": "CTTATC",
+      "mean_activation": 0.9962882796923319
+    },
+    {
+      "kmer": "AGTATC",
+      "mean_activation": 0.9962270855903625
+    },
+    {
+      "kmer": "CGTATC",
+      "mean_activation": 0.9961659163236618
+    },
+    {
+      "kmer": "ATGATC",
+      "mean_activation": 0.9961047503683302
+    },
+    {
+      "kmer": "CTGATC",
+      "mean_activation": 0.9960435678561529
+    }
+  ],
+  "biological_matches": [],
+  "cam_method": "gradcam",
+  "kmer_k": 6
+}

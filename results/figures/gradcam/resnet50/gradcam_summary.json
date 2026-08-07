@@ -1,0 +1,180 @@
+{
+  "non_resistant": {
+    "class": "non_resistant",
+    "n_images": 10,
+    "top_kmers": [
+      {
+        "kmer": "TAAGAG",
+        "mean_activation": 0.9896321048339208
+      },
+      {
+        "kmer": "CAACCT",
+        "mean_activation": 0.9847808728615443
+      },
+      {
+        "kmer": "ACACCT",
+        "mean_activation": 0.9835986759927537
+      },
+      {
+        "kmer": "CCACCT",
+        "mean_activation": 0.9824165006478628
+      },
+      {
+        "kmer": "AACCCT",
+        "mean_activation": 0.9812343186802335
+      },
+      {
+        "kmer": "ATAGAG",
+        "mean_activation": 0.9805905885166593
+      },
+      {
+        "kmer": "GCCTAG",
+        "mean_activation": 0.9785964377224445
+      },
+      {
+        "kmer": "TAAATG",
+        "mean_activation": 0.9719726343949636
+      },
+      {
+        "kmer": "CGCTAG",
+        "mean_activation": 0.971804141998291
+      },
+      {
+        "kmer": "ACCACT",
+        "mean_activation": 0.9711622308801721
+      },
+      {
+        "kmer": "CCCCCT",
+        "mean_activation": 0.9696496402223904
+      },
+      {
+        "kmer": "TTAGAG",
+        "mean_activation": 0.9694273322820663
+      },
+      {
+        "kmer": "AACACT",
+        "mean_activation": 0.969412816895379
+      },
+      {
+        "kmer": "TCCTAG",
+        "mean_activation": 0.9675607780615488
+      },
+      {
+        "kmer": "TCCTCT",
+        "mean_activation": 0.9663144052028656
+      },
+      {
+        "kmer": "GTGGGA",
+        "mean_activation": 0.9642420522868633
+      },
+      {
+        "kmer": "TTGGGA",
+        "mean_activation": 0.9636196692784628
+      },
+      {
+        "kmer": "CCAACT",
+        "mean_activation": 0.9633805404106776
+      },
+      {
+        "kmer": "GAAATG",
+        "mean_activation": 0.9632820710539818
+      },
+      {
+        "kmer": "AAAATG",
+        "mean_activation": 0.9631621175342135
+      }
+    ],
+    "biological_matches": [],
+    "cam_method": "gradcam",
+    "kmer_k": 6
+  },
+  "resistant": {
+    "class": "resistant",
+    "n_images": 10,
+    "top_kmers": [
+      {
+        "kmer": "AAAAAG",
+        "mean_activation": 0.9643463955985175
+      },
+      {
+        "kmer": "ACCTCT",
+        "mean_activation": 0.9635394877857633
+      },
+      {
+        "kmer": "TAAAAG",
+        "mean_activation": 0.9533174484968185
+      },
+      {
+        "kmer": "TGGACT",
+        "mean_activation": 0.9531689087549845
+      },
+      {
+        "kmer": "CCCCCT",
+        "mean_activation": 0.9517688651879629
+      },
+      {
+        "kmer": "CCCTCT",
+        "mean_activation": 0.9465474387009939
+      },
+      {
+        "kmer": "AGGACT",
+        "mean_activation": 0.9427983562151591
+      },
+      {
+        "kmer": "ATAAAG",
+        "mean_activation": 0.9422885047064887
+      },
+      {
+        "kmer": "GCCCCT",
+        "mean_activation": 0.9409996196627617
+      },
+      {
+        "kmer": "TCCTCT",
+        "mean_activation": 0.940786212682724
+      },
+      {
+        "kmer": "TAATAG",
+        "mean_activation": 0.9401900557180246
+      },
+      {
+        "kmer": "ACCACT",
+        "mean_activation": 0.9368176062901815
+      },
+      {
+        "kmer": "GGGACT",
+        "mean_activation": 0.9363515004515648
+      },
+      {
+        "kmer": "TGGTGA",
+        "mean_activation": 0.9334763313333193
+      },
+      {
+        "kmer": "AAATAG",
+        "mean_activation": 0.9330855780177647
+      },
+      {
+        "kmer": "TCGACT",
+        "mean_activation": 0.9324277689059576
+      },
+      {
+        "kmer": "GCCGCT",
+        "mean_activation": 0.930714963003993
+      },
+      {
+        "kmer": "CGCCCT",
+        "mean_activation": 0.9302303691705068
+      },
+      {
+        "kmer": "CGGACT",
+        "mean_activation": 0.9261555969715118
+      },
+      {
+        "kmer": "GCCTCT",
+        "mean_activation": 0.924178384244442
+      }
+    ],
+    "biological_matches": [],
+    "cam_method": "gradcam",
+    "kmer_k": 6
+  }
+}

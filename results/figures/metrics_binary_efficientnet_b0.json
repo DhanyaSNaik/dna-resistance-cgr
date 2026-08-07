@@ -1,0 +1,7 @@
+{
+  "model": "efficientnet_b0",
+  "task": "binary",
+  "accuracy": 0.9261477045908184,
+  "macro_f1": 0.9261465276477407,
+  "classification_report": "               precision    recall  f1-score   support\n\nnon_resistant     0.9246    0.9283    0.9264       251\n    resistant     0.9277    0.9240    0.9259       250\n\n     accuracy                         0.9261       501\n    macro avg     0.9262    0.9261    0.9261       501\n weighted avg     0.9262    0.9261    0.9261       501\n"
+}

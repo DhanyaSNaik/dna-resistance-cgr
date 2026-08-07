@@ -1,0 +1,7 @@
+{
+  "model": "resnet50",
+  "task": "binary",
+  "accuracy": 0.9720558882235529,
+  "macro_f1": 0.9720557768924303,
+  "classification_report": "               precision    recall  f1-score   support\n\nnon_resistant     0.9721    0.9721    0.9721       251\n    resistant     0.9720    0.9720    0.9720       250\n\n     accuracy                         0.9721       501\n    macro avg     0.9721    0.9721    0.9721       501\n weighted avg     0.9721    0.9721    0.9721       501\n"
+}
